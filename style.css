@@ -1,0 +1,23 @@
+p{
+    background-color: blue;
+    color: white;
+    visibility: hidden;
+}
+
+.quizContainer{
+    margin-left: 35%;
+    margin-top: 100px;
+}
+
+.timeContainer{
+    float:left;
+}
+
+.right-wrong{
+    width: 498px;
+    border-top: solid 2px;
+    color: lightgray;
+}
+#right-wrong{
+
+}
