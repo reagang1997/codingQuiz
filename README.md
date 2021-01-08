@@ -10,3 +10,5 @@ The website will keep track of all the highscores until the user decides to clea
 
 
 ![Alt text](img1.PNG?raw=true "Title")
+![Alt text](img2.PNG?raw=true "Title")
+![Alt text](img3.PNG?raw=true "Title")
